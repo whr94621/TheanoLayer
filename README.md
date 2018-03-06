@@ -5,6 +5,10 @@ fast building and training DL models. Since [MILA has stop developing theano](ht
 tensorflow is the most dominant static graph library， I still find that theano is more speed and memory efficiency for
 some models, especially seq2seq model in NLP which heavily use for-loop structure.
 
+## Requirements
+
+- [theano 1.0.1](http://www.deeplearning.net/software/theano/install.html)
+
 ## Features
 
 - Convenient shared variables creation, sharing and serilization.

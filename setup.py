@@ -13,5 +13,8 @@ setup(name='TheanoLayer',
           'theanolayer.utils',
           'theanolayer.nnet',
           'theanolayer.nnet.functional'
+      ],
+      install_requires=[
+          'theano'
       ]
 )
