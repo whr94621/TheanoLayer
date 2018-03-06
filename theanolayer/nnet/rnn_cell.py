@@ -28,8 +28,6 @@ class RNNCellBase(Module):
         """
         raise NotImplementedError
 
-
-
 class GRUCell(RNNCellBase):
 
     def __init__(self,

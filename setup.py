@@ -2,7 +2,7 @@
 from distutils.core import setup
 
 setup(name='TheanoLayer',
-      version='0.1.dev0',
+      version='0.1',
       description='A light theano wrapper.',
       author='Hao-Ran Wei',
       author_email='whr94621@gmail.com',
